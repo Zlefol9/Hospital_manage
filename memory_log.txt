@@ -1,0 +1,8 @@
+[1778230066] [FRAG] Ward=ICU        FreeUnits=9 LargestFreeBlock=9 ExtFragmentation=0.00%
+[1778230069] [FRAG] Ward=ICU        FreeUnits=6 LargestFreeBlock=6 ExtFragmentation=0.00%
+[1778230069] [FRAG] Ward=ICU        FreeUnits=3 LargestFreeBlock=3 ExtFragmentation=0.00%
+[1778230069] [FRAG] Ward=Isolation  FreeUnits=6 LargestFreeBlock=6 ExtFragmentation=0.00%
+[1778230069] [FRAG] Ward=General    FreeUnits=11 LargestFreeBlock=11 ExtFragmentation=0.00%
+[1778230069] [FRAG] Ward=General    FreeUnits=10 LargestFreeBlock=10 ExtFragmentation=0.00%
+[1778230195] [FRAG] Ward=ICU        FreeUnits=9 LargestFreeBlock=9 ExtFragmentation=0.00%
+[1778230200] [FRAG] Ward=ICU        FreeUnits=6 LargestFreeBlock=6 ExtFragmentation=0.00%

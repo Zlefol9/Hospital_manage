@@ -1,0 +1,13 @@
+=== GANTT CHART & SCHEDULING METRICS ===
+Strategy: BEST_FIT
+
+--- Actual Run (Priority Scheduling) ---
+
+--- FCFS Scheduling Simulation ---
+PID      Name             Priority   Burst      Arrival      Admitted     Discharged  
+
+--- SJF Scheduling Simulation ---
+PID      Name             Priority   Burst      Arrival      Admitted     Discharged  
+
+--- Priority Scheduling Simulation ---
+PID      Name             Priority   Burst      Arrival      Admitted     Discharged  
